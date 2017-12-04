@@ -1,5 +1,5 @@
 {
-  "name": "newpackage",
+  "name": "arkajkesavms",
   "version": "0.0.0",
   "description": "My new package",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkajkesav/newpackage.git"
+    "url": "git+https://github.com/arkajkesav/node.js.git"
   },
   "keywords": [
     "new"
@@ -16,7 +16,7 @@
   "author": "Arkaj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arkajkesav/newpackage/issues"
+    "url": "https://github.com/arkajkesav/node.js/issues"
   },
-  "homepage": "https://github.com/arkajkesav/newpackage#readme"
+  "homepage": "https://github.com/arkajkesav/node.js#readme"
 }
