@@ -1,0 +1,22 @@
+{
+  "name": "newpackage",
+  "version": "0.0.0",
+  "description": "My new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkajkesav/newpackage.git"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "Arkaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkajkesav/newpackage/issues"
+  },
+  "homepage": "https://github.com/arkajkesav/newpackage#readme"
+}
